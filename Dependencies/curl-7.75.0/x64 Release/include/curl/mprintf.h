@@ -48,3 +48,4 @@ CURL_EXTERN char *curl_mvaprintf(const char *format, va_list args);
 #endif
 
 #endif /* CURLINC_MPRINTF_H */
+
