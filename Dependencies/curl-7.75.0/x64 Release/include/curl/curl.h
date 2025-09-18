@@ -3035,3 +3035,4 @@ CURL_EXTERN CURLcode curl_easy_pause(CURL *handle, int bitmask);
 #endif /* gcc >= 4.3 && !__cplusplus */
 
 #endif /* CURLINC_CURL_H */
+
